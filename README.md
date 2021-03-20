@@ -5,12 +5,4 @@
 
 
 
-
-
-
-
-
-
-
-
-image url http://ndquangr.blogspot.com/2013/04/android-view-lifecycle.html
+![alt text](http://1.bp.blogspot.com/-9UCoqk4eOYs/UXOXi4Gqy5I/AAAAAAAAAG4/A8z6ociZjPY/s1600/android.png)
