@@ -19,3 +19,7 @@ Called from layout when this view should assign a size and position to each of i
 
 *onDraw*
 Finally draw canvas with paint and variety shapes
+
+*invalidate*
+will call onDraw again
+only use in UI Thread. using postInvalidate() in non Thread is possible 
